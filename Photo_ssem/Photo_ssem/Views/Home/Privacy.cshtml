@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "ssem Photo";
+}
+<body class="special-page">
+
+
+
+<h1>@ViewData["Title"]</h1>
+
+<p>זה הפרויקט של שיפי שירה אפרת ומירי עבדנו עליו במשך שבועיים להזמנות:
+    </p>
+    <p> sh4164116@gmail.com :שיפי</p>
+    <p> sh0548543446@gmail.com :שירה</p>
+    <p> e0548424042@gmail.com :אפרת</p>
+    <p>miri09743@gmail.com :מירי</p>
+
+@if (ViewData["Name"] != null && ViewData["Phone"] != null)
+{
+    <p>Name: @ViewData["Name"]</p>
+    <p>Phone: @ViewData["Phone"]</p>
+}
+
+
+@if (ViewData["Size"] != null)
+{
+    <p>size: @ViewData["Size"]</p>
+}
+</body>

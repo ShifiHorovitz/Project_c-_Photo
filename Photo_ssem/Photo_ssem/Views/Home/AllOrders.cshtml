@@ -1,0 +1,106 @@
+﻿@* @model List<DAL.OrderManagement>
+
+<h1>All Orders</h1>
+
+@if (Model.Count > 0)
+{
+    <form method="post" asp-action="UpdateOrdersStatus">
+        <table class="table table-bordered table-striped text-center">
+            <thead class="table-dark">
+                <tr>
+                    
+                    <th>Order Code</th>
+                    <th>Customer Code</th>
+                    <th>Status</th>
+                    <th>Select</th> <!-- עמודת הבחירה -->
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var order in Model)
+                {
+                    <tr>
+                        
+                        <td>@order.OrderCode</td>
+                        <td>@order.CustomerCode</td>
+                        <td>@order.ProcessStatus</td>
+                        <td>
+                            <input type="checkbox" name="selectedOrders" value="@order.OrderCode" />
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <!-- כפתור לעדכון הסטטוס -->
+        <button type="submit" class="btn-primary">Update Status</button>
+    </form>
+}
+else
+{
+    <p>No orders found.</p>
+}
+ *@
+
+
+
+
+@model List<DAL.OrderManagement>
+
+<h1>All Orders</h1>
+
+@if (Model.Count > 0)
+{
+    <table class="table table-bordered table-striped text-center">
+        <thead class="table-dark">
+            <tr>
+                <th>Order Code</th>
+                <th>Customer Code</th>
+                <th>Status</th>
+                <th>Update Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in Model)
+            {
+                <tr>
+                    <td>@order.OrderCode</td>
+                    <td>@order.CustomerCode</td>
+                    <td id="status-@order.OrderCode">@order.ProcessStatus</td>
+                    <td>
+                        <input type="checkbox"
+                               onchange="updateOrderStatus('@order.OrderCode', this.checked)">
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No orders found.</p>
+}
+
+<script>
+    function updateOrderStatus(orderCode, isChecked) {
+        // קובע את הסטטוס לפי אם ה-Checkbox מסומן או לא
+        let newStatus = isChecked ? 1 : 0;
+
+        fetch('/Home/UpdateOrderStatus', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ orderCode: orderCode, newStatus: newStatus })
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                // עדכון הסטטוס בעמוד באופן דינמי
+                document.getElementById(`status-${orderCode}`).innerText = newStatus;
+            } else {
+                alert("Error updating order status.");
+            }
+        })
+        .catch(error => console.error('Error:', error));
+    }
+</script>

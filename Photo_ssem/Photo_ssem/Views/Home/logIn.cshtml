@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "log in";
+}
+
+
+<h1>@ViewData["Title"]</h1>
+
+
+<form method="post" asp-action="checkCode">
+    <!  יגיעה לדף -- מעביר למתודה שתטפל בהגשה -->
+    <div>
+        <label for="code">enter your code:</label>
+        <input type="text" id="code" name="code" required />
+    </div>
+    <button class="btn-primary" type="submit">enter</button>
+</form>

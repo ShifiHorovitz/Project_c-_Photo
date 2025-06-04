@@ -1,0 +1,137 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+/* תיבות */
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 600px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    margin-bottom: 60px;
+    font-family: 'Arial', sans-serif;
+}
+.special-page {
+  
+    background-image: url('../assert/logo.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: rgba(255, 255, 255, 0.8); /* רקע בהיר עם שקיפות */
+}
+/* כותרות */
+h1, h2, h4 {
+    color: #FCB7B7; /* ורוד עמוק */
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+/* עיצוב תיבות קלט */
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="password"],
+input[type="number"],
+select {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #FCB7B7;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+/* עיצוב כפתורים Bootstrap עם התאמות */
+.btn-primary {
+    background-color: #FCB7B7; /* ורוד נעים */
+    border-color: black;
+    border-color: white;
+}
+
+    .btn-primary:hover {
+        background-color: white;
+        color: #FCB7B7;
+        border-color: white;
+    }
+
+    תיבות
+    .container {
+        background: white;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+        max-width: 600px;
+        margin: auto;
+        margin-top: 30px;
+    }
+
+/* עיצוב ללוגו */
+.logo {
+    display: block;
+    margin: 10px auto;
+    width: 120px;
+}
+
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;  גובה של 100% מהגובה של המסך 
+    margin: 0;  מסיר רווחים סביב הקונטיינר 
+    padding: 0;  מסיר ריפוד 
+    border: none;  מסיר גבול אם יש 
+}
+
+.image-container img {
+    max-width: 100%; /* מוודא שהתמונה לא תצא מעבר לגבולות המסך */
+    height: auto; /* שומר על פרופורציות התמונה */
+}
+
+
+/* סגנון ל-navbar */
+.navbar-nav .nav-item {
+    margin-left: 20px; /* מוסיף רווח בין הקישורים */
+    margin-right: 20px; /* מוסיף רווח בין הקישורים */
+}
+
+    .navbar-nav .nav-item a {
+        font-size: 18px; /* מגדיל את הגודל של הטקסט בקישורים */
+        font-weight: bold; /* משנה את הכיתוב לבוגר יותר*/ 
+    }
+
+
+
+        .navbar-nav .nav-item a:hover {
+            color: #FCB7B7; 
+        }
+
+@media (max-width: 767px) {
+    .navbar-nav .nav-item {
+        margin-left: 10px; /* רווח קטן יותר בגודל מסכים קטנים*/
+        margin-right: 10px;
+    }
+
+        .navbar-nav .nav-item a {
+            font-size: 16px; /* הפונט בקישורים קטן יותר במסכים קטנים*/
+        }
+}

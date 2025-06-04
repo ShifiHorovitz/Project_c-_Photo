@@ -1,0 +1,68 @@
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\bin\Debug\net7.0\appsettings.json
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\bin\Debug\net7.0\PhotoManagement.staticwebassets.runtime.json
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\bin\Debug\net7.0\PhotoManagement.exe
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\bin\Debug\net7.0\PhotoManagement.deps.json
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\bin\Debug\net7.0\PhotoManagement.runtimeconfig.json
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\bin\Debug\net7.0\PhotoManagement.dll
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\bin\Debug\net7.0\PhotoManagement.pdb
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\bin\Debug\net7.0\BLL.dll
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\bin\Debug\net7.0\BLL.pdb
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.csproj.AssemblyReference.cache
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.AssemblyInfoInputs.cache
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.AssemblyInfo.cs
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.csproj.CoreCompileInputs.cache
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.RazorAssemblyInfo.cache
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.RazorAssemblyInfo.cs
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\staticwebassets\msbuild.PhotoManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\staticwebassets\msbuild.build.PhotoManagement.props
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PhotoManagement.props
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PhotoManagement.props
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\scopedcss\bundle\PhotoManagement.styles.css
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\scopedcss\projectbundle\PhotoManagement.bundle.scp.css
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.csproj.CopyComplete
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.dll
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\refint\PhotoManagement.dll
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.pdb
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.genruntimeconfig.cache
+C:\Users\1\לימודים\לימודים שנה ב\c-sharp\PhotoManagement\PhotoManagement\obj\Debug\net7.0\ref\PhotoManagement.dll
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\bin\Debug\net7.0\appsettings.json
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\bin\Debug\net7.0\PhotoManagement.staticwebassets.runtime.json
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\bin\Debug\net7.0\PhotoManagement.exe
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\bin\Debug\net7.0\PhotoManagement.deps.json
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\bin\Debug\net7.0\PhotoManagement.runtimeconfig.json
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\bin\Debug\net7.0\PhotoManagement.dll
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\bin\Debug\net7.0\PhotoManagement.pdb
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\bin\Debug\net7.0\BLL.dll
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\bin\Debug\net7.0\BLL.pdb
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.AssemblyInfo.cs
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.RazorAssemblyInfo.cache
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.RazorAssemblyInfo.cs
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\staticwebassets\msbuild.PhotoManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\staticwebassets\msbuild.build.PhotoManagement.props
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PhotoManagement.props
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PhotoManagement.props
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\scopedcss\bundle\PhotoManagement.styles.css
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\scopedcss\projectbundle\PhotoManagement.bundle.scp.css
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.csproj.CopyComplete
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.dll
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\refint\PhotoManagement.dll
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.pdb
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\PhotoManagement.genruntimeconfig.cache
+C:\Users\1\Desktop\c-\PhotoManagement\PhotoManagement\obj\Debug\net7.0\ref\PhotoManagement.dll
